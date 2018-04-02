@@ -1,0 +1,46 @@
+
+#conteneur {
+	width: 1230px;
+	margin-right: auto;
+	margin-left: auto;
+	background-color: #ffb2b2;
+	color: #fff;
+	border-radius: 20px 20px 20px 20px;
+}
+h1 {
+	text-align: center;
+}
+img {
+	position: absolute;
+	left: 571px;
+	border-radius: 20px 20px 20px 20px;
+}
+
+#btn-p {
+	position: relative;
+	top: 410px;
+	left: 583px;
+	cursor: pointer;
+}
+
+#btn-s {
+	position: relative;
+	top: 410px;
+	left: 586px;
+	cursor: pointer;
+}
+h2 {
+	margin-left: 20px;
+}
+
+h2:first-of-type {
+	margin-top: 450px;
+}
+
+p {
+	margin-left: 20px;
+}
+
+#stock-moche {
+	padding-bottom: 50px;
+}
